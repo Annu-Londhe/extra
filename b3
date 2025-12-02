@@ -1,2 +1,6 @@
- " from master 
+<<<<<<< HEAD
+ " i am  from master 
 
+=======
+i am in b1 branch
+>>>>>>> b1
